@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ayush Yadav</h1>
+<h1 align="center">Hello👋, I'm Ayush Yadav</h1>
 <h3 align="center">A passionate Data Analyst</h3>
 
 🌱 I’m Recently Graduated with a Bachelor’s of Computer Applications (BCA)
