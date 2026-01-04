@@ -7,11 +7,11 @@
 - SQL for data querying Statistics & Exploratory Data Analysis
 - Data Visualization (Matplotlib, Seaborn, Power BI – beginner)**
 
-- 💬 Ask me about **Python (Pandas, NumPy) SQL Queries & Data Cleaning EDA, Dashboards, and Business Insights Beginner-friendly Machine Learning concepts**
+💬 Ask me about **Python (Pandas, NumPy) SQL Queries & Data Cleaning EDA, Dashboards, and Business Insights Beginner-friendly Machine Learning concepts**
 
-- 📫 To reach me **ayushyadav.code@gmail.com**
+📫 To reach me **ayushyadav.code@gmail.com**
 
-- ⚡ Fun fact **I enjoy turning raw data into insights almost as much as debugging at 2 AM 😄**
+⚡ Fun fact **I enjoy turning raw data into insights almost as much as debugging at 2 AM 😄**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
