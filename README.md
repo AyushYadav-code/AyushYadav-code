@@ -1,45 +1,50 @@
 # Hi, I’m Ayush Yadav 👋
 
 🌱 **Recently Graduated with a Bachelor’s of Computer Applications (BCA)**  
-Aspiring **Data Analyst** passionate about turning raw data into meaningful insights.
+Aspiring **Data Analyst** with a strong foundation in Python, SQL, and data analysis.  
+I enjoy working with data to uncover insights and support better decision-making.
 
 ---
 
 ## 🔍 About Me
-- Strong foundation in **Python for Data Analysis** and **SQL**
-- Experienced in **Data Cleaning, Exploratory Data Analysis (EDA), and Statistics**
+- Skilled in **Python (Pandas, NumPy)** for data analysis  
+- Strong understanding of **SQL** for data querying and data cleaning  
+- Experience with **Exploratory Data Analysis (EDA)** and basic **Statistics**  
 - Beginner-level experience with **Power BI** and **Machine Learning concepts**
-- Curious, detail-oriented, and always improving through hands-on projects
+- Comfortable working with **Excel** for analysis and reporting  
+- Creative experience using **Adobe After Effects** for motion graphics
 
 ---
 
 ## 💬 Ask Me About
-- Python (Pandas, NumPy)
-- SQL Queries & Data Cleaning
-- Exploratory Data Analysis (EDA)
-- Dashboards & Business Insights
-- Beginner-friendly Machine Learning concepts
+- Python for Data Analysis  
+- SQL Queries & Data Cleaning  
+- Exploratory Data Analysis (EDA)  
+- Dashboards & Business Insights  
+- Beginner-level Machine Learning concepts  
 
 ---
 
 ## 🛠️ Languages & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
-![Power BI](https://img.shields.io/badge/Power%20BI-Beginner-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-Design-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+- **Python** – https://www.python.org  
+- **Pandas** – https://pandas.pydata.org  
+- **NumPy** – https://numpy.org  
+- **SQL / MySQL** – https://www.mysql.com  
+- **Microsoft Excel** – https://www.microsoft.com/excel  
+- **Power BI** – https://powerbi.microsoft.com  
+- **Scikit-learn** – https://scikit-learn.org  
+- **Seaborn** – https://seaborn.pydata.org  
+- **Figma** – https://www.figma.com  
+- **Adobe After Effects** – https://www.adobe.com/products/aftereffects.html  
 
 ---
 
 ## 📫 Connect With Me
-- 📧 Email: **ayushyadav.code@gmail.com**
-- 💼 LinkedIn: **Ayush Yadav**
-- 💻 GitHub: **ayushyadavcode**
+- 📧 Email: **ayushyadav.code@gmail.com**  
+- 💼 LinkedIn: https://www.linkedin.com/in/ayush-yadav-192396369  
+- 💻 GitHub: https://github.com/AyushYadav-code  
 
 ---
 
 ⚡ **Fun Fact:**  
-I enjoy turning messy datasets into insights almost as much as debugging code at 2 AM 😄
+I enjoy turning raw data into insights almost as much as debugging code at 2 AM 😄
