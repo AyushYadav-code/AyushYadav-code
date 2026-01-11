@@ -4,7 +4,7 @@
 🌱 I’m Recently Graduated **Bachelor’s of Computer Applications (BCA).
   Aspiring Data Analyst with strong foundations in:
 - Python for Data Analysis SQL for data querying Statistics & Exploratory.
-- Data Analysis Data Visualization (Matplotlib, Seaborn, Power BI – beginner).
+- Data Analysis & Data Visualization (Matplotlib, Seaborn, Power BI – beginner).
 
 - 💬 Ask me about **Python (Pandas, NumPy) SQL Queries & Data Cleaning EDA, Dashboards, and Business Insights Beginner-friendly Machine Learning concepts**
 
