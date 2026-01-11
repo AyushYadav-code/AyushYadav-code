@@ -1,25 +1,45 @@
-<h1 align="center">Hello👋, I'm Ayush Yadav</h1>
-<h3 align="center">A passionate Data Analyst</h3>
+# Hi, I’m Ayush Yadav 👋
 
-🌱 I’m Recently Graduated with a Bachelor’s of Computer Applications (BCA)
-- Aspiring Data Analyst with strong foundations in:
-- Python for Data Analysis
-- SQL for data querying Statistics & Exploratory Data Analysis
-- Data Visualization (Matplotlib, Seaborn, Power BI – beginner)
+🌱 **Recently Graduated with a Bachelor’s of Computer Applications (BCA)**  
+Aspiring **Data Analyst** passionate about turning raw data into meaningful insights.
 
-💬 Ask me about **Python (Pandas, NumPy) SQL Queries & Data Cleaning EDA, Dashboards, and Business Insights Beginner-friendly Machine Learning concepts**
+---
 
-📫 To reach me **ayushyadav.code@gmail.com**
+## 🔍 About Me
+- Strong foundation in **Python for Data Analysis** and **SQL**
+- Experienced in **Data Cleaning, Exploratory Data Analysis (EDA), and Statistics**
+- Beginner-level experience with **Power BI** and **Machine Learning concepts**
+- Curious, detail-oriented, and always improving through hands-on projects
 
-⚡ Fun fact **I enjoy turning raw data into insights almost as much as debugging at 2 AM 😄**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ayush yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush yadav" height="30" width="40" /></a>
-<a href="https://kaggle.com/ayushyadavcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ayushyadavcode" height="30" width="40" /></a>
-</p>
+## 💬 Ask Me About
+- Python (Pandas, NumPy)
+- SQL Queries & Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Dashboards & Business Insights
+- Beginner-friendly Machine Learning concepts
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-<img 
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+---
+
+## 🛠️ Languages & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power%20BI-Beginner-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-Design-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 📫 Connect With Me
+- 📧 Email: **ayushyadav.code@gmail.com**
+- 💼 LinkedIn: **Ayush Yadav**
+- 💻 GitHub: **ayushyadavcode**
+
+---
+
+⚡ **Fun Fact:**  
+I enjoy turning messy datasets into insights almost as much as debugging code at 2 AM 😄
