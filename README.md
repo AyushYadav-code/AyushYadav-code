@@ -7,7 +7,7 @@
 - Python for Data Analysis SQL for data querying Statistics & Exploratory.
 - Data Analysis & Data Visualization (Matplotlib, Seaborn, Power BI – beginner).
 
-- 💬 Ask me about **Python (Pandas, NumPy) SQL Queries & Data Cleaning EDA, Dashboards, and Business Insights Beginner-friendly Machine Learning concepts**
+- 💬 Ask me about **Python (Pandas, NumPy) SQL Queries & Data Cleaning EDA, Dashboards, and Business Insights Beginner-friendly Machine Learning concepts.**
 
 > 📫 How to reach me - **ayushyadav.code@gmail.com**
 
