@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python (Pandas, NumPy) SQL Queries & Data Cleaning EDA, Dashboards, and Business Insights Beginner-friendly Machine Learning concepts**
 
-- 📫 How to reach me **ayushyadav.code@gmail.com**
+> 📫 How to reach me - **ayushyadav.code@gmail.com**
 
 - ⚡ Fun fact **I enjoy turning raw data into insights almost as much as debugging at 2 AM 😄**
 
